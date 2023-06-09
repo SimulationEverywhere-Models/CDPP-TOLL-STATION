@@ -1,0 +1,5 @@
+Cantidad de Autos con Monedas: 8
+Cantidad de Autos con Pase: 0
+Tiempo Promedio de Demora de Autos con Monedas: 108.250000
+Cantidad de Autos Multados: 4
+

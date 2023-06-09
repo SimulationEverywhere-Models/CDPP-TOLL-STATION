@@ -1,0 +1,5 @@
+Cantidad de Autos con Monedas: 0
+Cantidad de Autos con Pase: 1
+Tiempo Promedio de Demora de Autos con Monedas: 0
+Cantidad de Autos Multados: 0
+
